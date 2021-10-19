@@ -49,6 +49,6 @@ trip gone horribly wrong...
 
 Appropriately titled _The Trip_, you can watch it [here.](https://www.youtube.com/watch?v=iUMiS2Dtqyg)
 
-###### This website was constructed for my IT 1000 clas at the University of Missouri
+###### This website was constructed for my IT 1000 class at the University of Missouri
         
        
