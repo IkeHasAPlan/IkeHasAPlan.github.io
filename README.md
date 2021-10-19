@@ -2,7 +2,6 @@
 
 ![IMG_9371](https://user-images.githubusercontent.com/92767126/137967843-81237e56-502f-4768-960d-9e977d9ea40c.JPG)
 
-### It will fill you in on my life, and hopefully educate you on my hobbies and interests!
 ### I'm into all sorts of things! You can read about them below...
 
 <html>
