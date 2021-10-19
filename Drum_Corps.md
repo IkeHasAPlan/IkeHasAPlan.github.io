@@ -29,16 +29,20 @@ How competitive are these groups?
 
 To clarify, here is a video of Carolina Crown's 2018 show [_Beast_](https://www.youtube.com/watch?v=b3x4TrnzuyU)
 
-
-
-
-
+There are two competitive pools that Corps can compete in. These include World Class and Open Class.
+Here are some corps from both divisions!
 
 #### World Class Corps
-
+*Blue Devils
+*Carolina Crown
+*Cavaliers
+*Troopers
 
 #### Open Class Corps
-
+*Colt Cadets
+*Legend
+*River City Rhythm
+*Gold
 
 #### My experience with Drum Corps
 
