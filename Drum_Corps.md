@@ -31,7 +31,7 @@ To clarify, here is a video of Carolina Crown's 2018 show _Beast_
 
 <html>
   <body>
-    <video src="https://www.youtube.com/watch?v=b3x4TrnzuyU"></video>
+    <iframe src="https://www.youtube.com/watch?v=b3x4TrnzuyU" width="200" height="320"></iframe>
   </body>
 </html>
 
