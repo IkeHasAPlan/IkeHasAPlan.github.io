@@ -29,12 +29,8 @@ How competitive are these groups?
 
 To clarify, here is a video of Carolina Crown's 2018 show _Beast_
 
-<html>
-  <body>
-    <head><iframe width="560" height="315" src="https://www.youtube.com/embed/b3x4TrnzuyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-    write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </head>
-  </body>
-</html>
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=b3x4TrnzuyU)
+
 
 
 
