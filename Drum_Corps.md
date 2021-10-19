@@ -4,7 +4,7 @@
 <html>
   <body>
     <ul>
-      <li><a src="">Homepage</a></li>
+      <li><a href="README.md">Homepage</a></li>
       <li><a src="">Video Games</a></li>
       <li><a src="">Movies and Videography</a></li>
       <li><a src="">Music</a></li>
