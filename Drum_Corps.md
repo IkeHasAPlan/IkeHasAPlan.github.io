@@ -1,5 +1,5 @@
-#Drum Corps International
-####Other pages:
+# Drum Corps International
+#### Other pages:
 
 <html>
   <body>
