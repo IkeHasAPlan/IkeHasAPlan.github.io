@@ -27,9 +27,9 @@ Why sacrifice a whole summer for band?
 Why pay so much money to compete? 
 How competitive are these groups?
 
-To clarify, here is a video of Carolina Crown's 2018 show _Beast_
+To clarify, here is a video of Carolina Crown's 2018 show [_Beast_](https://www.youtube.com/watch?v=b3x4TrnzuyU)
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=b3x4TrnzuyU)
+
 
 
 
