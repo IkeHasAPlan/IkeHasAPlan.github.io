@@ -37,5 +37,5 @@ the summer, and am currently inbetween occupations.
 
 I am the youngest of 7 (yes 7!), and I am looking forward to see where my career takes me :)
 
-#### This website was constructed for my IT 1000 class at the University of Missouri
+###### This website was constructed for my IT 1000 class at the University of Missouri
 
