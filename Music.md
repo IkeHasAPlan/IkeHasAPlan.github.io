@@ -23,6 +23,9 @@ This changed probably my sophomore year of high school, when I created my first 
 
 We created a jazz combo called _Six O'Clock Swing_
 
+(![87334746_542435599710355_7439935099673509888_n](https://user-images.githubusercontent.com/92767126/137970653-308ad826-a8d6-45f3-bbb3-06e8372a793f.jpg)
+
+
 I'll get more to that later, but for now I'll stay on topic. 
 
 After this band, I discovered my love for Jazz and funk music. From this point on, I made listening to new music
