@@ -7,7 +7,7 @@
       <li><a href="README.md">Homepage</a></li>
       <li><a href="Video_Games.md">Video Games</a></li>
       <li><a href="Movies.md">Movies and Videography</a></li>
-      <li><a href="">Music</a></li>   
+      <li><a href="Music.md">Music</a></li>   
     </ul>
   </body>
 </html>
