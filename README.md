@@ -27,6 +27,8 @@ exploring the beautiful Krug Park, or catching a bite to eat in one of our many 
 historic, with many locals claiming it had the potential to be bigger than Kansas City (if it weren't for that darn railroad being built
 through KC instead)! 
 
+You can learn more about St. Joseph [here!](https://www.stjoemo.info/151/History-of-St-Joseph)
+
 It's a small town, yes, but it's my home and I love it with all my heart.
 
 While in High School, I spent a year and a half working retail at my local TJ Maxx. I was mostly a sales floor associate, but I eventually 
