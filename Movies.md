@@ -30,6 +30,8 @@ simply sitting down and enjoying a new movie.
 * Django Unchained
 * The Founder
 
+![](https://upload.wikimedia.org/wikipedia/en/thumb/d/da/There_Will_Be_Blood_Poster.jpg/220px-There_Will_Be_Blood_Poster.jpg)
+
 ## My experience with videography
 
 During my senior year of high shool, I had the privilege of taking part in the production of
