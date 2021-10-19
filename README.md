@@ -1,11 +1,9 @@
 # Hello, I'm Isaac Rivera, and this is my website!
 
-## This website was constructed for my IT 1000 class at the University of Missouri
-#### It will fill you in on my life, and hopefully educate you on my hobbies and interests!
-#### I'm into all sorts of things! You can read about them below...
+### It will fill you in on my life, and hopefully educate you on my hobbies and interests!
+### I'm into all sorts of things! You can read about them below...
 
 <html>
-  <title> Isaac's Website </title>
   <body>
     <ul>
       <li><link src="">Drum Corps International</link></li>
@@ -19,5 +17,23 @@
        
   
 
-### Here's some info about 
+### About me:
+I am an undergraduate engineering student studying at the University of Missouri. I am currently working towards my bachelors degree 
+in information technology. I am heavily involved with Marching Mizzou here at MU, and am a proud member of the university snare line!
+
+My hometown is St. Joseph. Missouri, where I attended Central High School. St. Joseph (or 'Joetown' for locals) is the biggest small 
+town you'll ever visit! With a population of 75,000, people can usually be seen walking around our recently renovated Felix Square, 
+exploring the beautiful Krug Park, or catching a bite to eat in one of our many locally owned small businesses. The town is extremely 
+historical, with many locals claiming it had the potential to be bigger than Kansas City (if it weren't for that darn railroad being built
+through KC instead)! 
+
+It's a small town, yes, but it's my home and I love it with all my heart.
+
+While in High School, I spent a year and a half working retail at my local TJ Maxx. I was mostly a sales floor associate, but I eventually 
+worked my way up to becoming a Customer Experience Coordinator, which is essentially a shift leader for cashiering. I saved up lots during
+the summer, and am currently inbetween occupations.
+
+I am the youngest of 7 (yes 7!), and I am looking forward to see where my career takes me :)
+
+
 
