@@ -7,7 +7,7 @@
   <body>
     <ul>
       <li><a href="Drum_Corps.md">Drum Corps International</a></li>
-      <li><a href="">Video Games</a></li>
+      <li><a href="Video_Games.md">Video Games</a></li>
       <li><a href="">Movies and Videography</a></li>
       <li><a href="">Music</a></li>
       <li><a href="">My Family</a></li>
