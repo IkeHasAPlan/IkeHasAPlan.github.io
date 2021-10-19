@@ -5,7 +5,7 @@
   <body>
     <ul>
       <li><a href="README.md">Homepage</a></li>
-      <li><a src="Video_Games.md">Video Games</a></li>
+      <li><a href="Video_Games.md">Video Games</a></li>
       <li><a src="">Movies and Videography</a></li>
       <li><a src="">Music</a></li>
       <li><a src="">Family</a></li>
