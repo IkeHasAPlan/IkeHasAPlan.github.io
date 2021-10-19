@@ -42,7 +42,7 @@ on something as big as dropping a new episode every week.
 Then at the end of the year, my Creative Literature teacher announced that our final project
 would include us making our very own movies. 
 I was thrilled to put my skills to use. I knew that if I never touched a camera again, I would
-want this to be my "Magnum Opis" if you will.
+want this to be my "Magnum Opus" if you will.
 
 So with that, I got some buddies together and made a cheesy high school flick about a camping 
 trip gone horribly wrong... 
