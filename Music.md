@@ -48,7 +48,7 @@ many fond memories of gigging with my band mates, even once opening for Jukebox 
 We were the front cover of the newspaper several times, and also made an effort to perform with as many local
 musicians as we could! 
 
-You can watch a (very very old and rusty) video of us performing [here] (https://www.youtube.com/watch?v=1H1iI4eiXG8)
+You can watch a (very very old and rusty) video of us performing [here.](https://www.youtube.com/watch?v=1H1iI4eiXG8)
 
 
 The love for making music had sprout, and I slowly expanded my musicianship to bass guitar, with which I played in
