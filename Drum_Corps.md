@@ -33,16 +33,16 @@ There are two competitive pools that Corps can compete in. These include World C
 Here are some corps from both divisions!
 
 #### World Class Corps
-*Blue Devils
-*Carolina Crown
-*Cavaliers
-*Troopers
+* Blue Devils
+* Carolina Crown
+* Cavaliers
+* Troopers
 
 #### Open Class Corps
-*Colt Cadets
-*Legend
-*River City Rhythm
-*Gold
+* Colt Cadets
+* Legend
+* River City Rhythm
+* Gold
 
 #### My experience with Drum Corps
 
