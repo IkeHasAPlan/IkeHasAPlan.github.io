@@ -40,3 +40,5 @@ one day work for them. While I've moved on from that dream these days, I would b
 said there wasn't a part of me that would still love to work for them these days.
 
 To see some of Blizzard's other projects, click [here!](https://www.blizzard.com/en-us/)
+
+###### This website was constructed for my IT 1000 class at the University of Missouri
