@@ -37,7 +37,7 @@ a **habit**. I would listen to new albums weekly, and these days my music taste 
 * Summer Salt
 * Shannon and the Clams
 
-[](https://upload.wikimedia.org/wikipedia/en/e/ea/Chinese_Fountain_The_Growlers.jpg)
+![](https://upload.wikimedia.org/wikipedia/en/e/ea/Chinese_Fountain_The_Growlers.jpg)
 
 ### Six O'Clock Swing
 
