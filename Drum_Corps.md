@@ -12,7 +12,7 @@
   </body>
 </html>
 
-### What is Drum Corps?
+## What is Drum Corps?
 
 **Drum Corps** is an activity popular amongst band kids that is essentially professional marching band. In order
 to participate, a performer must audition at one of the many corps hosted by _Drum Corps International_ (DCI). If a 
@@ -45,7 +45,7 @@ Here are some corps from both divisions!
 * River City Rhythm
 * Gold
 
-#### My experience with Drum Corps
+## My experience with Drum Corps
 
 I marched Drum Corps with the Colt Cadets in 2019. Our show was titled "Of a Feather" and was about birds. 
 I have since gone on to participate in indoor drumline, and now university band. I am auditioning again
