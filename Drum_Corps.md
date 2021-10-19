@@ -46,4 +46,8 @@ Here are some corps from both divisions!
 
 #### My experience with Drum Corps
 
+I marched Drum Corps with the Colt Cadets in 2019. Our show was titled "Of a Feather" and was about birds. 
+I have since gone on to participate in indoor drumline, and now university band. I am auditioning again
+this year, and hope to spend my summer with the Troopers Drum and Bugle Corps!
+
 ###### This website was constructed for my IT 1000 class at the University of Misssouri
