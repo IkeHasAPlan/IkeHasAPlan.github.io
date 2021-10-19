@@ -23,6 +23,6 @@
 #### Open Class Corps
 
 
-###$ My experience with Drum Corps
+#### My experience with Drum Corps
 
 ###### This website was constructed for my IT 1000 class at the University of Misssouri
