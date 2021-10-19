@@ -52,4 +52,6 @@ I marched Drum Corps with the Colt Cadets in 2019. Our show was titled "Of a Fea
 I have since gone on to participate in indoor drumline, and now university band. I am auditioning again
 this year, and hope to spend my summer with the Troopers Drum and Bugle Corps!
 
+![5e3b3c8644ad5 image](https://user-images.githubusercontent.com/92767126/137961283-1954ece5-1606-4e66-ba37-87b827406316.jpg)
+
 ###### This website was constructed for my IT 1000 class at the University of Misssouri
