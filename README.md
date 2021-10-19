@@ -6,7 +6,7 @@
 <html>
   <body>
     <ul>
-      <li><link src="https://github.com/IkeHasAPlan/IkeHasAPlan.github.io/blob/ac560119eaec612c428ef3700e8331ff8e39b5ff/Drum_Corps.md">Drum Corps International</link></li>
+      <li><a href="https://github.com/IkeHasAPlan/IkeHasAPlan.github.io/blob/ac560119eaec612c428ef3700e8331ff8e39b5ff/Drum_Corps.md">Drum Corps International</a></li>
       <li><link src="">Video Games</link></li>
       <li><link src="">Movies and Videography</link></li>
       <li><link src="">Music</link></li>
