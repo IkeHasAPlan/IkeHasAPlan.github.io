@@ -22,6 +22,8 @@ season for DCI) to attend spring training and tour. World class tours can run th
 end between August 8-10th, at DCI World Championships in Indianapolis. You can participate in Drum Corps until 
 you "age out" at 21.
 
+[!Carolina Crown![(https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/c/ed/ced05a66-10cf-11e6-9f60-6b6f32786bf2/572801b108aa4.image.jpg?resize=750%2C493 "Carolina Crown")
+
 To newcomers, this whole concept must seem strange. 
 Why sacrifice a whole summer for band?
 Why pay so much money to compete? 
